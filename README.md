@@ -3,8 +3,8 @@ Udacity project for deploying web application on a configured Amazon lightsail w
 
 IP address: 18.218.112.221
 SSH port: 2200
-URL of hosted application: 
-1- Software installed and configuration changes made:
+URL of hosted application: http://ec2-18-218-112-221.us-east-2.compute.amazonaws.com/
+1- Configuration changes made:
 
 -Changed SSH port to 2200
 -Created user grader and provided him sudo access.
@@ -27,7 +27,7 @@ To                         Action      From
 123 (v6)                   ALLOW       Anywhere (v6)
 80 (v6)                    ALLOW       Anywhere (v6)
 
--Packages installed:
+2- Software (packages) installed:
 
 asn1crypto==0.24.0
 autopep8==1.3.2
