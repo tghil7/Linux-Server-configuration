@@ -3,7 +3,7 @@ Udacity project for deploying web application on a configured Amazon lightsail w
 
 IP address: 18.218.112.221
 SSH port: 2200
-URL of hosted application: http://ec2-18-218-112-221.us-east-2.compute.amazonaws.com/
+URL of hosted application: http://ec2-18-218-112-221.us-east-2.compute.amazonaws.com/(Note: this URL is no longer available due to a change in host server. Please visit http://as-catalog.herokuapp.com)
 1- Configuration changes made:
 
 -Changed SSH port to 2200
